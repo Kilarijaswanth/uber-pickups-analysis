@@ -54,4 +54,4 @@ Anaconda: https://www.anaconda.com/download/
 
 # Authors
 
-KILARI JASWANTH and DEVA DEEKSHITH - combined  work
+KILARI JASWANTH and DEVA DEEKSHITH(https://github.com/deva025) - combined  work
