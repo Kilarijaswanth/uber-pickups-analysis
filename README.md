@@ -4,7 +4,7 @@
 Data Source: https://www.kaggle.com/fivethirtyeight/uber-pickups-in-new-york-city
 
 
-Information about data set
+#Information about data set
 
 The dataset contains, roughly, TWO groups of files: 
 ● Uber trip data from 2014 (April - September), separated by month, with detailed location information. 
@@ -33,24 +33,25 @@ Also included is the file uber-raw-data-janjune-15.csv This file has the followi
 These files are named: 
 - uber-raw-data-janjune-15.csv
 
-Flow of Project
-We have done Exploratory Data Analysis on full data then we have removed outliers using "LocalOutlierFactor", then finally we have used KNN technique to predict to train the data and to predict whether the transaction is Fraud or not. We have also applied T-SNE to visualize the Fraud and genuine transactions in 2-D.
+#motive of Project
+To analyze the data of the customer rides and visualize the data to find insights that can help improve business. Data analysis and visualization is an important part of data science. They are used to gather insights from the data and with visualization you can get quick information from the data.
 
-How to Run the Project
+
+#How to Run the Project
 
 In order to run the project just download the data from above mentioned source then run any file.
 
-Prerequisites
+#Prerequisites
 You need to have installed following softwares and libraries in your machine before running this project.
 
 Python 3
 Anaconda: It will install ipython notebook and most of the libraries which are needed like sklearn, pandas, seaborn, matplotlib, numpy, scipy.
 
-Installing
+#Installing
 
 Python 3: https://www.python.org/downloads/
 Anaconda: https://www.anaconda.com/download/
 
-Authors
+#Authors
 
 KILARI JASWANTH and DEVA DEEKSHITH - comined  work
